@@ -1,0 +1,56 @@
+{
+  "Printer": {
+    "printer_name": {
+      "string": {}
+    },
+    "printer_ip": {
+      "string": [
+        "192.168.0.106",
+        "192.168.0.107"
+      ]
+    },
+    "api_key": {
+      "string": [
+        "1C8DF545202045ED97CF49722C1DB566",
+        "1C8DF545202045ED97CF49722C1DB566"
+      ]
+    },
+    "status": {
+      "int": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "creation_time_stamp": {
+      "string": [
+        "1661436136.7861142",
+        "1661436136.7861142"
+      ]
+    },
+    "uploaded_file": {
+      "string": {}
+    },
+    "filament_type": {
+      "string": {}
+    },
+    "done_percentage": {
+      "int": {
+        "min": 1,
+        "max": 99
+      }
+    },
+    "total_time": {
+      "int": {
+        "min": 1,
+        "max": 999
+      }
+    },
+    "left_time": {
+      "int": {
+        "min": 1,
+        "max": 999
+      }
+    }
+  }
+}
+Footer
